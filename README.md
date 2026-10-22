@@ -37,6 +37,7 @@ I'm continuously learning, practicing, and building projects to strengthen my co
 
 - GitHub: (https://github.com/your-vida0528)
 - Email: onyewchiugochi55@gmail.com
+- Linkedin:linedin.com/in/onyewuchi-vida-b7574288
 
 ---
 
