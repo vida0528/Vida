@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 - 🌦️ I'm building projects like a Weather App and interactive web applications.
 - 🎯 My goal is to become a skilled frontend developer.
 - 🤝 I'm open to learning, collaboration, and new opportunities.
-- 🎬 I also love watching movies.
 
 ## 🛠️ Technologies & Tools
 
