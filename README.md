@@ -19,9 +19,7 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 - CSS3
 - JavaScript
 - Tailwind CSS
-- Bootstrap
 - Git & GitHub
-- Visual Studio Code
 
 ## 📌 My Projects
 
